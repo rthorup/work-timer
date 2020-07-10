@@ -1,0 +1,25 @@
+*{
+  margin: 1rem;
+}
+
+.header {
+  text-align: center;
+}
+
+.circle {
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+button:hover {
+  cursor: pointer;
+}
